@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'jasonswanson:editable-json',
+  name: 'jswanson:editable-json',
   version: '0.6.4',
   summary: 'Editable JSON for Meteor',
   // URL to the Git repository containing the source code for this package.
